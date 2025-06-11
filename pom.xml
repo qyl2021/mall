@@ -46,7 +46,7 @@
         <spring-data-commons.version>2.3.0.RELEASE</spring-data-commons.version>
         <jjwt.version>0.9.0</jjwt.version>
         <aliyun-oss.version>2.5.0</aliyun-oss.version>
-        <logstash-logback.version>5.3</logstash-logback.version>
+        <logstash-logback.version>7.0</logstash-logback.version>
         <minio.version>7.1.0</minio.version>
         <mall-common.version>1.0-SNAPSHOT</mall-common.version>
         <mall-mbg.version>1.0-SNAPSHOT</mall-mbg.version>
